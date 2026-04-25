@@ -34,7 +34,7 @@ I developed a logic to strip redundant marketing phrases (e.g., "includes," "fea
 * **Scalability:** Implemented `IFERROR` and dynamic formulas to handle future data updates automatically.
 
 ##  Technical Report
-[View the full Technical Report here]([INSERT_YOUR_LINK_HERE](https://docs.google.com/document/d/14hPPPg8vePfwFjbGcaYC8wwkH4mroCWdAfp_gojCQ7E/edit?usp=sharing)
+[View the full Technical Report here](https://docs.google.com/document/d/14hPPPg8vePfwFjbGcaYC8wwkH4mroCWdAfp_gojCQ7E/edit?usp=sharing)
 
 https://github.com/user-attachments/assets/add09acc-7116-430a-93a4-168c9fa02b4d
 
